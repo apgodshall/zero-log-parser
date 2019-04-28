@@ -4,8 +4,11 @@ This is a little decoder utility to parse Zero Motorcycle main bike board (MBB) 
 
 ## Usage
 ### Getting Logs
-These may be extracted from the bike using the Zero mobile app: http://www.zeromotorcycles.com/app/help/ios/
+These may be extracted from the bike using the Zero mobile app:
+
   * Download the Zero mobile app.
+    IOS: http://www.zeromotorcycles.com/app/help/ios/
+    Android: https://play.google.com/store/apps/details?id=com.ZeroMotorcycles
   * Pair your motorcycle with it via bluetooth.
   * Once the pairing is working, select `Support` > `Email bike logs` and send the logs to yourself rather than / in addition to Zero Motorcycles support.
 
